@@ -19,7 +19,7 @@ The following data preprocessing steps were performed to ensure data quality and
 - Cleaned and formatted columns for analysis  
 
 ## Data Visualization
-The following visualizations were created to analyze Netflix content:
+The following visualizations were created to analyze Netflix data:
 
 - Bar chart: Movies vs TV Shows distribution  
 - Pie chart: Content rating distribution  
